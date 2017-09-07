@@ -15,3 +15,4 @@ if get_answer == secret_number:
 else:
 	print "try again"
 
+add n 
