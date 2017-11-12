@@ -1,0 +1,236 @@
+    1  mkdir firstmadefromterminal
+    2  cd firstmadefromterminal
+    3  cd
+    4  ls
+    5  cd Desktop
+    6  cd ..
+    7  cd ..
+    8  cd
+    9  cd /Applications/
+   10  ls
+   11  cd
+   12  cd 
+   13  cd firstmadefromterminal/
+   14  cd
+   15  cd firstmadefromterminal/
+   16  cd
+   17  cd Documents/.localized cd
+   18  cd ..
+   19  cd ..
+   20  cd ..
+   21  cd ..
+   22  cd ..
+   23  cd
+   24  ifconfig en1 | grep ether
+   25  arp -a
+   26  cd Desktop/
+   27  ls
+   28  Learn Angular2
+   29  Learn\ Angular2/
+   30  cd
+   31  cd Downloads/
+   32  cd
+   33  Desktop/
+   34  cd Desktop/
+   35  ls
+   36  cd Learn\ Angular2/
+   37  touch index.html
+   38  cd app
+   39  cd
+   40  ls
+   41  cd Documents/.localized 
+   42  Desktop/
+   43  cd Desktop/
+   44  mkdir app
+   45  cd app
+   46  touch boot.ts
+   47  touch app.component.ts
+   48  ls
+   49  cd ..
+   50  cd Learn\ Angular2/
+   51  touch package.json
+   52  cd
+   53  sudo npm install -g typescript
+   54  cd
+   55  clear
+   56  node
+   57  cleaar
+   58  clear
+   59  defaults write com.apple.dock authohide-time-modifier-int 0
+   60  killall Dock
+   61  dkj
+   62  defaults write com.apple.dock autohide-time-modifier -int 0
+   63  killall Dock
+   64  cd
+   65  clear
+   66  defaults write com.apple.dock autohide-time-modifier -float 0.12
+   67  killall Dock
+   68  defaults write com.apple.Dock showhidden -bool TRUE; killall Dock
+   69   
+   70  defaults write com.apple.dock autohide-time-modifier -float 0.12;killall Dock
+   71  defaults write com.apple.dock autohide-time-modifier -int 0;killall Dock
+   72  defaults delete com.apple.dock autohide-time-modifier;killall Dock
+   73  defaults write com.apple.dock autohide-time-modifier -int 0;killall Dock
+   74  ls
+   75  cd
+   76  clear
+   77  node
+   78  node
+   79  node
+   80  cd
+   81  cd Desktop/nodelearning/
+   82  ls
+   83  node app.js
+   84  cd
+   85  cd
+   86  destop
+   87  ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+   88  sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+   89  zsh
+   90  top
+   91  pwd
+   92  cd~
+   93  ls
+   94  ls - la
+   95  kj
+   96  cd
+   97  ls-la
+   98  ls -la
+   99  ls -l
+  100  cd ~
+  101  cd desktop
+  102  clear
+  103  ls
+  104  ls- la
+  105  ls -la
+  106  clear
+  107  cd
+  108  cd atom
+  109  cd Atom
+  110  cd
+  111  clear
+  112  kj;
+  113  k
+  114  c
+  115  clear
+  116  cd desktop
+  117  mkdir DigitalCrafts
+  118  cd DigitalCrafts
+  119  pwd
+  120  mkdir 9-17immersive
+  121  pwd
+  122  ls
+  123  cd ~
+  124  cd 
+  125  ls
+  126  cd Desktop/DigitalCrafts/9-17immersive/
+  127  clear
+  128  cd
+  129  clear
+  130  cd Applications
+  131  cd 
+  132  cd ~cd
+  133  cd ~
+  134  cd Desktop/DigitalCrafts/9-17immersive/
+  135  cd
+  136  which git
+  137  unit1 python
+  138  print "Hello, World"
+  139  clear
+  140  /Users
+  141  cd Users
+  142  cd Desktop/
+  143  which zsh
+  144  cd ~
+  145  pwd
+  146  cd /bin
+  147  cd ~ /bin
+  148  ~ cd /bin
+  149  cd / bin
+  150  cd /bin
+  151  ls -la
+  152  /bin ..
+  153  cd ~ /Desktop
+  154  cd /Desktop
+  155  cd
+  156  cd/Desktop
+  157  cd /Desktop
+  158  cd / Desktop/
+  159  cd /bin
+  160  cd /dev
+  161  cd /etc
+  162  cd /etc
+  163  etc /ls
+  164  ls
+  165  cd /home
+  166  cd /Atom
+  167  cd /users
+  168  ls
+  169  cd / tmp
+  170  cd /tmp
+  171  ls
+  172  cd /usr
+  173  ls
+  174  cd bin
+  175  cd bin
+  176  cd /usr/bin
+  177  ls
+  178  /usr/bin
+  179  cd usr/local/bin
+  180  bin pwd
+  181  /
+  182  cd /etc
+  183  cd /tmp
+  184  cd /usr
+  185  cd bin
+  186  cd /usr
+  187  usr bin
+  188  cd ../sbin
+  189  cd /var
+  190  ls
+  191  cd..
+  192  cd../..
+  193  cd
+  194  cd Desktop/DigitalCrafts/9-17immersive/
+  195  unit1
+  196  ls
+  197  mkdir linux101
+  198  ls
+  199  newfile.txt
+  200  touch file1.txt
+  201  touch file2.txt.py
+  202  cd..
+  203  cat python101.py 
+  204  head python101.py 
+  205  tail python101.py 
+  206  clear
+  207  cp python101.py newPythonFile.py
+  208  ls
+  209  rm
+  210  cd
+  211  cd /Desktop
+  212  cd /user/Desktop
+  213  cd /tmp
+  214  mv python101.py
+  215  kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkclear
+  216  clear
+  217  cd Desktop
+  218  cd /Desktop
+  219  cd
+  220  cd~ /Desktop
+  221  cd 
+  222  cd ps
+  223  ~ ps
+  224  ~ w
+  225  man w
+  226  cd
+  227  clear
+  228  cd Desktop/DigitalCrafts/9-17immersive/
+  229  mkdir unit1
+  230  ls
+  231  cd unit1
+  232  apachectl restart
+  233  sudo apachectl restart
+  234  sudo sudo apachectl restart
+  235  find ~/ -name python101.py
+  236  history > history.txt
